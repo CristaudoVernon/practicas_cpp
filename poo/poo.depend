@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634903874 source:c:\users\vernon\desktop\cmasmas\poo\main.cpp
+	<iostream>
+	<cmath>
+
+1634904491 source:c:\users\vernon\desktop\cmasmas\poo\constructor.cpp
+	<iostream>
+	<cmath>
+
